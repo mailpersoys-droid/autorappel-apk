@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "7.1",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.1/AutoRappel-7.1.apk",
-  "notes": "Le bouton VERIFIER : l app se met a jour toute seule, sans passer par Chrome."
+  "versionCode": 66,
+  "versionName": "7.2",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.2/AutoRappel-7.2.apk",
+  "notes": "La barre de telechargement ne reste plus figee a 0 pourcent."
 }
