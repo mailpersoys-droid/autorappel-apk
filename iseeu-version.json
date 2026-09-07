@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "2.2",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.2/ISEEU-2.2.apk",
-  "notes": "Suppressions detectees meme pour les noms longs ou avec des emojis. Vraies photos des contacts. Le texte est garde un mois pour la recherche, les medias 48 h."
+  "versionCode": 23,
+  "versionName": "2.3",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.3/ISEEU-2.3.apk",
+  "notes": "Nouveau look : noir neutre, couleur laissee aux photos de tes contacts, et un message rattrape est la seule chose lumineuse de l ecran."
 }
