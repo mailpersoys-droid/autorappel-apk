@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "7.3",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.3/AutoRappel-7.3.apk",
-  "notes": "L app repond plus vite : plus rien ne bloque l affichage quand tu ajoutes ou coches un article."
+  "versionCode": 68,
+  "versionName": "7.4",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.4/AutoRappel-7.4.apk",
+  "notes": "L app te previent si un reglage d Android l empeche de faire son travail, surtout apres une mise a jour."
 }
