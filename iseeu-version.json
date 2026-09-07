@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.0",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.0/ISEEU-2.0.apk",
-  "notes": "Les mises a jour marchent maintenant de partout, plus besoin du Mac."
+  "versionCode": 21,
+  "versionName": "2.1",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.1/ISEEU-2.1.apk",
+  "notes": "Les suppressions sont enfin detectees pour les contacts au nom long ou plein d emojis. Et le flux affiche les vraies photos de tes contacts."
 }
