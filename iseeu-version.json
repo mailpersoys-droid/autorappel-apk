@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.1",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.1/ISEEU-2.1.apk",
-  "notes": "Les suppressions sont enfin detectees pour les contacts au nom long ou plein d emojis. Et le flux affiche les vraies photos de tes contacts."
+  "versionCode": 22,
+  "versionName": "2.2",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.2/ISEEU-2.2.apk",
+  "notes": "Suppressions detectees meme pour les noms longs ou avec des emojis. Vraies photos des contacts. Le texte est garde un mois pour la recherche, les medias 48 h."
 }
