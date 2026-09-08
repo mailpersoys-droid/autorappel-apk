@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "7.4",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.4/AutoRappel-7.4.apk",
-  "notes": "L app te previent si un reglage d Android l empeche de faire son travail, surtout apres une mise a jour."
+  "versionCode": 69,
+  "versionName": "7.5",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.5/AutoRappel-7.5.apk",
+  "notes": "La fleche pour fermer l ecran d envoi marche enfin, et l heure ne s affiche plus a la verticale dans le journal."
 }
