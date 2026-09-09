@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "2.3",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.3/ISEEU-2.3.apk",
-  "notes": "Nouveau look : noir neutre, couleur laissee aux photos de tes contacts, et un message rattrape est la seule chose lumineuse de l ecran."
+  "versionCode": 24,
+  "versionName": "2.4",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.4/ISEEU-2.4.apk",
+  "notes": "Menage. L application ne garde et ne montre plus que ce qui a vraiment ete supprime : le tampon technique est invisible, court (7 jours) et borne. Les 202 faux soupcons sont partis, et un bouton permet de corriger l app quand elle se trompe."
 }
