@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "7.5",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.5/AutoRappel-7.5.apk",
-  "notes": "La fleche pour fermer l ecran d envoi marche enfin, et l heure ne s affiche plus a la verticale dans le journal."
+  "versionCode": 70,
+  "versionName": "7.6",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.6/AutoRappel-7.6.apk",
+  "notes": "Reglages : toutes les autorisations dans une seule zone, avec Valide ou A refaire, et un bouton qui ouvre le bon ecran."
 }
