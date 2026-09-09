@@ -1,6 +1,6 @@
 {
-  "versionCode": 2021,
-  "versionName": "0.2.21",
+  "versionCode": 2022,
+  "versionName": "0.2.22",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Version d'essai : elle sert a verifier que le nouveau bouton Installer fonctionne."
+  "notes": "Repare la mise a jour qui se reproposait sans fin : le fichier telecharge porte maintenant son numero de version."
 }
