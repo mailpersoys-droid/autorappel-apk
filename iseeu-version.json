@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.5",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.5/ISEEU-2.5.apk",
-  "notes": "Le menage, avec des boutons. Tu peux supprimer un message tout seul (en bas de sa fiche), vider la liste des rattrapes, vider le coffre, supprimer une photo. Et tu choisis toi-meme combien de temps garder un message ordinaire : 3, 7 ou 30 jours, dans Sources."
+  "versionCode": 26,
+  "versionName": "2.6",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.6/ISEEU-2.6.apk",
+  "notes": "L onglet Demande est parti. Quatre onglets au lieu de cinq, deux fichiers de moins dans l application, et le bouton CHERCHER qui ne servait a rien ne prend plus de place. Rien d autre ne change."
 }
