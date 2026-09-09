@@ -1,6 +1,6 @@
 {
-  "versionCode": 2023,
-  "versionName": "0.2.23",
+  "versionCode": 2024,
+  "versionName": "0.2.24",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Typographie et cartes revues sur tous les ecrans. Et l'application n'est plus compilee en mode debogage."
+  "notes": "Version d'essai : elle sert a verifier une derniere fois que le bouton Installer va jusqu'au bout."
 }
