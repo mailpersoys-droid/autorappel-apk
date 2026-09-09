@@ -1,6 +1,6 @@
 {
-  "versionCode": 2020,
-  "versionName": "0.2.20",
+  "versionCode": 2021,
+  "versionName": "0.2.21",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "L'installation se fait maintenant par le mecanisme officiel d'Android : elle dit enfin si elle a reussi ou echoue."
+  "notes": "Version d'essai : elle sert a verifier que le nouveau bouton Installer fonctionne."
 }
