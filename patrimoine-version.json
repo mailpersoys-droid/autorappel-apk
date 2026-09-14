@@ -1,6 +1,6 @@
 {
-  "versionCode": 2024,
-  "versionName": "0.2.24",
+  "versionCode": 2026,
+  "versionName": "0.2.26",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Version d'essai : elle sert a verifier une derniere fois que le bouton Installer va jusqu'au bout."
+  "notes": "Le relevé automatique ne part plus avant 6 h du matin, au lieu de 8 h 30."
 }
