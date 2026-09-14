@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.6",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.6/ISEEU-2.6.apk",
-  "notes": "L onglet Demande est parti. Quatre onglets au lieu de cinq, deux fichiers de moins dans l application, et le bouton CHERCHER qui ne servait a rien ne prend plus de place. Rien d autre ne change."
+  "versionCode": 27,
+  "versionName": "2.7",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.7/ISEEU-2.7.apk",
+  "notes": "Correction du faux rattrape. Une reponse a un statut etait prise pour un message supprime : la premiere fois que l app decouvre une conversation, elle se contente desormais de noter combien de traces de suppression s y trouvent, sans rien marquer. Elle compare aussi mieux le texte de la notification avec ce qui est affiche a l ecran."
 }
