@@ -1,6 +1,6 @@
 {
-  "versionCode": 2030,
-  "versionName": "0.2.30",
+  "versionCode": 2031,
+  "versionName": "0.2.31",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "L'application sait maintenant lire aussi les versements affiches par Clal."
+  "notes": "Lecture des versements plus sure : un numero de police ne peut plus etre pris pour un montant."
 }
