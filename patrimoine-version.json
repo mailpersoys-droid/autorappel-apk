@@ -1,6 +1,6 @@
 {
-  "versionCode": 2029,
-  "versionName": "0.2.29",
+  "versionCode": 2030,
+  "versionName": "0.2.30",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "L'application repere les versements affiches par Phoenix et propose de les ajouter."
+  "notes": "L'application sait maintenant lire aussi les versements affiches par Clal."
 }
