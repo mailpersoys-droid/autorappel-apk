@@ -1,6 +1,6 @@
 {
-  "versionCode": 2026,
-  "versionName": "0.2.26",
+  "versionCode": 2027,
+  "versionName": "0.2.27",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Le relevé automatique ne part plus avant 6 h du matin, au lieu de 8 h 30."
+  "notes": "L'application ne contient plus de donnees personnelles : elle peut servir a quelqu'un d'autre. Les prets se saisissent dans l'Historique."
 }
