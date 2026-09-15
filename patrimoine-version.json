@@ -1,6 +1,6 @@
 {
-  "versionCode": 2031,
-  "versionName": "0.2.31",
+  "versionCode": 2032,
+  "versionName": "0.2.32",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Lecture des versements plus sure : un numero de police ne peut plus etre pris pour un montant."
+  "notes": "Clal : la lecture va maintenant jusqu'a la fiche de la police, ou figure le versement."
 }
