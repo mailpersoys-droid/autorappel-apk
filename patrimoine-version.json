@@ -1,6 +1,6 @@
 {
-  "versionCode": 2036,
-  "versionName": "0.2.36",
+  "versionCode": 2037,
+  "versionName": "0.2.37",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "A la fin du releve, une fenetre dit ce qui a bouge : le total, l'ecart, et chaque contrat."
+  "notes": "Repare la mise a jour : l'APK publie n'etait pas celui de la version annoncee"
 }
