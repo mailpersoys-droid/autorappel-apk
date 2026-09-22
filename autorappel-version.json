@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "7.6",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.6/AutoRappel-7.6.apk",
-  "notes": "Reglages : toutes les autorisations dans une seule zone, avec Valide ou A refaire, et un bouton qui ouvre le bon ecran."
+  "versionCode": 71,
+  "versionName": "7.7",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v7.7/AutoRappel-7.7.apk",
+  "notes": "Plusieurs magasins dans une tournee : un ticket par magasin, et la liste continue pour le suivant."
 }
