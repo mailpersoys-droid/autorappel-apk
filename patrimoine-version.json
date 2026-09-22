@@ -1,6 +1,6 @@
 {
-  "versionCode": 2033,
-  "versionName": "0.2.33",
+  "versionCode": 2036,
+  "versionName": "0.2.36",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Le detour Clal ne se fait que tant qu'aucun versement n'est connu. Pour toi, rien ne change."
+  "notes": "A la fin du releve, une fenetre dit ce qui a bouge : le total, l'ecart, et chaque contrat."
 }
