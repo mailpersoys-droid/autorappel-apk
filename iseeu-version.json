@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.9",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v2.9/ISEEU-2.9.apk",
-  "notes": "Une photo que tu supprimes toi-meme dans ta galerie n est plus prise pour une photo supprimee par l expediteur. L app attend maintenant que la conversation le confirme, et elle a retire toute seule les photos marquees a tort."
+  "versionCode": 30,
+  "versionName": "3.0",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/iseeu-v3.0/ISEEU-3.0.apk",
+  "notes": "Le coffre est nettoye : les vocaux et les photos marques a tort par les anciennes versions sont partis tout seuls. WhatsApp qui renomme ses propres fichiers ne passe plus pour une suppression. Et toute l app est aux couleurs de WhatsApp."
 }
