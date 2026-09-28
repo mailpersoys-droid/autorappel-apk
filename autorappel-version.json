@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "8.1",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.1/AutoRappel-8.1.apk",
-  "notes": "Nouveau : plusieurs versions d'un message, une differente chaque jour (carte Varier le message)"
+  "versionCode": 76,
+  "versionName": "8.2",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.2/AutoRappel-8.2.apk",
+  "notes": "Caddie rangé par magasin, recherche, noms longs en entier, double appui pour « pris »"
 }
