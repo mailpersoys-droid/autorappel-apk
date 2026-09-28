@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "8.6",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.6/AutoRappel-8.6.apk",
-  "notes": "Correcteur plus sûr (marques, ponctuation, mots courants), thon en Viande & poisson, section Rarement pris dans l'inventaire, J'ai fini chez … dans chaque magasin du caddie"
+  "versionCode": 81,
+  "versionName": "8.7",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.7/AutoRappel-8.7.apk",
+  "notes": "J'ai fini chez … : un bouton par magasin, qui ne compte et ne ferme que ses articles"
 }
