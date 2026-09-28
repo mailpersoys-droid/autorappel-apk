@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "8.5",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.5/AutoRappel-8.5.apk",
-  "notes": "7 rayons au lieu de 15 : Fruits & légumes, Viande & poisson, Laitages, Gâteaux & chips, Boissons, Surgelés, Autre"
+  "versionCode": 80,
+  "versionName": "8.6",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.6/AutoRappel-8.6.apk",
+  "notes": "Correcteur plus sûr (marques, ponctuation, mots courants), thon en Viande & poisson, section Rarement pris dans l'inventaire, J'ai fini chez … dans chaque magasin du caddie"
 }
