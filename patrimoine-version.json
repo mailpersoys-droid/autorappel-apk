@@ -1,6 +1,6 @@
 {
-  "versionCode": 2041,
-  "versionName": "0.2.41",
+  "versionCode": 2042,
+  "versionName": "0.2.42",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Petites corrections internes, rien ne change à l'écran"
+  "notes": "Nouveau design : Accueil, Historique, Projection, Relevé et un écran Réglages ; nouveau graphe avec bougies et première projection."
 }
