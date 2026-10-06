@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "8.7",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.7/AutoRappel-8.7.apk",
-  "notes": "J'ai fini chez … : un bouton par magasin, qui ne compte et ne ferme que ses articles"
+  "versionCode": 82,
+  "versionName": "8.8",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.8/AutoRappel-8.8.apk",
+  "notes": "Nouveau logo, et un message automatique peut partir un peu avant ou après l'heure (±15 min), pour ne pas faire robot"
 }
