@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "8.8",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.8/AutoRappel-8.8.apk",
-  "notes": "Nouveau logo, et un message automatique peut partir un peu avant ou après l'heure (±15 min), pour ne pas faire robot"
+  "versionCode": 83,
+  "versionName": "8.9",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v8.9/AutoRappel-8.9.apk",
+  "notes": "Toute l'app aux couleurs du nouveau logo"
 }
