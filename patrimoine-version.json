@@ -1,6 +1,6 @@
 {
-  "versionCode": 2047,
-  "versionName": "0.2.47",
+  "versionCode": 2048,
+  "versionName": "0.2.48",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Messages d'échec et commentaires du service de lecture en français correct"
+  "notes": "Nettoyage interne : écran Simulateur retiré, aucune date d'ouverture dans la config livrée"
 }
