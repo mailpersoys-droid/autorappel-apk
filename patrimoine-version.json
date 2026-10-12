@@ -1,6 +1,6 @@
 {
-  "versionCode": 2046,
-  "versionName": "0.2.46",
+  "versionCode": 2047,
+  "versionName": "0.2.47",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Le résumé de fin de lecture montre à nouveau le gain ou la perte quand un contrat n'a pas pu être lu"
+  "notes": "Messages d'échec et commentaires du service de lecture en français correct"
 }
