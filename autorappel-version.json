@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "9.0",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.0/AutoRappel-9.0.apk",
-  "notes": "Les courses sont maintenant dans CoursesPromo : AutoRappel garde les rappels et les messages, en plus léger."
+  "versionCode": 85,
+  "versionName": "9.1",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.1/AutoRappel-9.1.apk",
+  "notes": "Correctif : l'envoi automatique était cru coupé alors qu'il était actif."
 }
