@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "9.3",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.3/AutoRappel-9.3.apk",
-  "notes": "Correctif : plus de « 1 h avant » sur un rappel en retard ou passé"
+  "versionCode": 88,
+  "versionName": "9.4",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.4/AutoRappel-9.4.apk",
+  "notes": "La page Messages prend le format de Rappels : les envois du jour en haut, puis tous les messages par heure"
 }
