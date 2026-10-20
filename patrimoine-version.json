@@ -1,6 +1,6 @@
 {
-  "versionCode": 2053,
-  "versionName": "0.2.53",
+  "versionCode": 2054,
+  "versionName": "0.2.54",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Secours Phoenix : valider le code"
+  "notes": "Secours : session propre à chaque essai"
 }
