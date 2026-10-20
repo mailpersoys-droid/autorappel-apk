@@ -1,6 +1,6 @@
 {
-  "versionCode": 2050,
-  "versionName": "0.2.50",
+  "versionCode": 2051,
+  "versionName": "0.2.51",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Secours par le site de Phoenix quand l’application ne répond pas"
+  "notes": "Secours par le site : diagnostic des échecs"
 }
