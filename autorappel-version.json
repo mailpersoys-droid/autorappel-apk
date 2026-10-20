@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "9.5",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.5/AutoRappel-9.5.apk",
-  "notes": "Correctif : le bouton « Envoyer maintenant » n'est plus coupé quand on ouvre un message"
+  "versionCode": 90,
+  "versionName": "9.6",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.6/AutoRappel-9.6.apk",
+  "notes": "Efface une seule fois les anciens fichiers des courses (copie gardée dans Téléchargements/AutoRappel)"
 }
