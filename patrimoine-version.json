@@ -1,6 +1,6 @@
 {
-  "versionCode": 2060,
-  "versionName": "0.2.60",
+  "versionCode": 2061,
+  "versionName": "0.2.61",
   "url": "https://github.com/mailpersoys-droid/patrimoine-apk/releases/latest/download/patrimoine.apk",
-  "notes": "Secours par le site : lecture de Clal"
+  "notes": "Réglages : choisir application ou site en premier"
 }
