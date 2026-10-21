@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "9.6",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.6/AutoRappel-9.6.apk",
-  "notes": "Efface une seule fois les anciens fichiers des courses (copie gardée dans Téléchargements/AutoRappel)"
+  "versionCode": 91,
+  "versionName": "9.7",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.7/AutoRappel-9.7.apk",
+  "notes": "Choisir N envois par semaine parmi les jours cochés ; l'app prévient quand toutes les versions d'un message sont parties"
 }
