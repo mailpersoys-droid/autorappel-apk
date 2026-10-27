@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "9.7",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.7/AutoRappel-9.7.apk",
-  "notes": "Choisir N envois par semaine parmi les jours cochés ; l'app prévient quand toutes les versions d'un message sont parties"
+  "versionCode": 92,
+  "versionName": "9.8",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.8/AutoRappel-9.8.apk",
+  "notes": "Assistant IA « Nouvelle série » : à la fin d'un tour de versions, l'IA du téléphone (hors ligne) propose les suivantes ; rien ne change sans ta validation."
 }
