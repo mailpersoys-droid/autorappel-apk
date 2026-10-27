@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "9.8",
-  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.8/AutoRappel-9.8.apk",
-  "notes": "Assistant IA « Nouvelle série » : à la fin d'un tour de versions, l'IA du téléphone (hors ligne) propose les suivantes ; rien ne change sans ta validation."
+  "versionCode": 93,
+  "versionName": "9.9",
+  "url": "https://github.com/mailpersoys-droid/autorappel-apk/releases/download/v9.9/AutoRappel-9.9.apk",
+  "notes": "Petit outil d'essai : la notification de fin de tour peut être rejouée pour la regarder."
 }
